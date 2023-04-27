@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\welcome"
   ],
+  "SelectedNode": "\\src\\app\\welcome\\welcome.component.html",
   "PreviewInSolutionExplorer": false
 }

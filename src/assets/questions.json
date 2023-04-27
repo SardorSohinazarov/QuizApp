@@ -1,0 +1,58 @@
+{
+    "questions":[
+        {
+            "questionText":"What is your name?",
+            "options":[
+                {
+                    "text":"Sardor",
+                    "currect": true
+                },
+                {
+                    "text":"Sarvar"
+                },
+                {
+                    "text":"Sanjar"
+                },
+                {
+                    "text":"Samar"
+                }
+            ]
+        },
+        {
+            "questionText":"What is your Job?",
+            "options":[
+                {
+                    "text":"Tester"
+                },
+                {
+                    "text":"IA"
+                },
+                {
+                    "text":"Develepor",
+                    "currect": true
+                },
+                {
+                    "text":"Data sinetist"
+                }
+            ]
+        },
+        {
+            "questionText":"Where are you from?",
+            "options":[
+                {
+                    "text":"Tashkent"
+                },
+                {
+                    "text":"Fergana",
+                    "currect": true
+                },
+                {
+                    "text":"London"
+                },
+                {
+                    "text":"Paris"
+                }
+            ]
+        }
+    ]
+}

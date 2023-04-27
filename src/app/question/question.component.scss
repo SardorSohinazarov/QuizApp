@@ -1,0 +1,13 @@
+.fa{
+    color: #23A7E7;
+}
+
+li{
+    cursor:pointer;
+    transition: background .5s easy;
+    &:hover{
+        background: #23A7E7;
+        font-size: 33px;
+        text-decoration: white;
+    }
+}
